@@ -6,7 +6,7 @@ deepcomparer==0.1.0
 deepfinder==1.2.0
 dependency-injector==4.37.0
 fastapi==0.115.2
-h11==0.12.0
+h11==0.16.0
 idna==3.7
 minio==7.1.1
 pydantic==1.10.13
